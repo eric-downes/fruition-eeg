@@ -27,5 +27,5 @@ We'll likely focus on the second before such eye-blinks, especially T-minus .25 
   - Deliverable 1: conversion tools
   - Deliverable 2: data representation classes using a standard format on the backend
  
-- Fruition analysis
+3. Fruition analysis
   - TBD!
